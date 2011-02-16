@@ -1,0 +1,9 @@
+; $Id$
+name = Kohana ORM
+description = Enables the Kohana ORM for use by other Drupal modules.
+core = 7.x
+
+files[] = includes/orm.inc
+files[] = includes/inflector.inc
+files[] = includes/database.inc
+files[] = includes/mysql/database.inc
